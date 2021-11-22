@@ -26,7 +26,7 @@ let generateExcuse = () => {
   let posession = ["homework", "toe", "sock", "bicicle", "car", "shoe"];
   let where = [
     "on the street",
-    "at the cafeteria",
+    "at the coffee shop",
     "in my house",
     "at the librery",
     "in my driveway"
